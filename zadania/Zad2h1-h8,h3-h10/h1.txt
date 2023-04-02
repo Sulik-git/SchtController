@@ -1,0 +1,22 @@
+------------------------------------------------------------
+Server listening on TCP port 5555 with pid 5973
+Read buffer size:  128 KByte
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[  4] local 10.0.0.1 port 5555 connected with 10.0.0.6 port 56654
+[ ID] Interval            Transfer    Bandwidth       Reads   Dist(bin=16.0K)
+[  4] 0.0000-1.0000 sec  3.77 MBytes  31.6 Mbits/sec  71    31:3:1:6:9:1:5:15
+[  4] 1.0000-2.0000 sec  6.56 MBytes  55.0 Mbits/sec  63    3:0:2:4:5:2:1:46
+[  4] 2.0000-3.0000 sec  6.56 MBytes  55.0 Mbits/sec  77    4:0:6:15:13:3:4:32
+[  4] 3.0000-4.0000 sec  6.68 MBytes  56.1 Mbits/sec  78    5:1:5:12:12:5:7:31
+[  4] 4.0000-5.0000 sec  6.78 MBytes  56.9 Mbits/sec  79    4:0:3:16:17:3:4:32
+[  4] 5.0000-6.0000 sec  6.65 MBytes  55.8 Mbits/sec  78    9:0:4:10:13:2:8:32
+[  4] 6.0000-7.0000 sec  6.84 MBytes  57.3 Mbits/sec  78    6:0:4:12:13:3:5:35
+[  4] 7.0000-8.0000 sec  6.50 MBytes  54.5 Mbits/sec  73    6:0:4:10:10:3:6:34
+[  4] 8.0000-9.0000 sec  6.66 MBytes  55.9 Mbits/sec  81    7:0:4:16:17:1:6:30
+[  4] 9.0000-10.0000 sec  6.61 MBytes  55.5 Mbits/sec  76    9:2:3:8:9:2:7:36
+[  4] 10.0000-11.0000 sec  6.59 MBytes  55.3 Mbits/sec  55    0:0:1:0:0:1:0:53
+[  4] 11.0000-12.0000 sec  6.59 MBytes  55.3 Mbits/sec  57    0:1:2:0:0:2:1:51
+[  4] 12.0000-13.0000 sec  6.35 MBytes  53.2 Mbits/sec  54    0:1:1:0:0:1:1:50
+[  4] 13.0000-14.0000 sec  6.59 MBytes  55.3 Mbits/sec  54    0:0:0:0:0:0:0:54
+[  4] 0.0000-14.8999 sec  95.4 MBytes  53.7 Mbits/sec  1022    84:10:40:109:118:29:56:576

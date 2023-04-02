@@ -1,0 +1,20 @@
+------------------------------------------------------------
+Client connecting to 10.0.0.3, UDP port 5111 with pid 10202
+Sending 1470 byte datagrams, IPG target: 392.00 us (kalman adjust)
+UDP buffer size:  156 KByte (WARNING: requested 78.1 KByte)
+------------------------------------------------------------
+[  3] local 10.0.0.4 port 45345 connected with 10.0.0.3 port 5111
+[ ID] Interval            Transfer     Bandwidth      Write/Err  PPS
+[  3] 0.0000-1.0000 sec  3.58 MBytes  30.0 Mbits/sec  2552/0     2550 pps
+[  3] 1.0000-2.0000 sec  3.58 MBytes  30.0 Mbits/sec  2551/0     2551 pps
+[  3] 2.0000-3.0000 sec  3.58 MBytes  30.0 Mbits/sec  2554/0     2536 pps
+[  3] 3.0000-4.0000 sec  3.53 MBytes  29.6 Mbits/sec  2518/0     2534 pps
+[  3] 4.0000-5.0000 sec  3.62 MBytes  30.3 Mbits/sec  2580/0     2584 pps
+[  3] 5.0000-6.0000 sec  3.58 MBytes  30.0 Mbits/sec  2553/0     2551 pps
+[  3] 6.0000-7.0000 sec  3.58 MBytes  30.0 Mbits/sec  2551/0     2551 pps
+[  3] 7.0000-8.0000 sec  3.58 MBytes  30.0 Mbits/sec  2551/0     2551 pps
+[  3] 8.0000-9.0000 sec  3.58 MBytes  30.0 Mbits/sec  2551/0     2551 pps
+[  3] 0.0000-10.0007 sec  35.8 MBytes  30.0 Mbits/sec  25511/0     2550 pps
+[  3] Sent 25511 datagrams
+[  3] Server Report:
+[  3] 0.0000-10.3757 sec  8.70 MBytes  7.03 Mbits/sec   0.428 ms 19305/25511 (76%) 1752.823/740.042/2690.465/ 0.765 ms 2458 pps  0.50

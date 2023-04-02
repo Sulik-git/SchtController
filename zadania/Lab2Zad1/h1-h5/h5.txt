@@ -1,0 +1,23 @@
+------------------------------------------------------------
+Client connecting to 10.0.0.1, TCP port 5555 with pid 24790
+Write buffer size:  250 KByte
+TCP window size:  156 KByte (WARNING: requested 78.1 KByte)
+------------------------------------------------------------
+[  3] local 10.0.0.5 port 53266 connected with 10.0.0.1 port 5555 (ct=39.14 ms)
+[ ID] Interval            Transfer    Bandwidth       Write/Err  Rtry     Cwnd/RTT        NetPwr
+[  3] 0.0000-1.0000 sec  1.06 MBytes  8.87 Mbits/sec  5/0          0       33K/37688 us  29.41
+[  3] 1.0000-2.0000 sec  6.35 MBytes  53.2 Mbits/sec  26/0          0      620K/38493 us  172.91
+[  3] 2.0000-3.0000 sec  6.35 MBytes  53.2 Mbits/sec  26/0          0      620K/37787 us  176.15
+[  3] 3.0000-4.0000 sec  6.35 MBytes  53.2 Mbits/sec  26/0          0      620K/38217 us  174.16
+[  3] 4.0000-5.0000 sec  6.35 MBytes  53.2 Mbits/sec  26/0          0      620K/37880 us  175.71
+[  3] 5.0000-6.0000 sec  6.35 MBytes  53.2 Mbits/sec  26/0          0      620K/37719 us  176.46
+[  3] 6.0000-7.0000 sec  6.59 MBytes  55.3 Mbits/sec  27/0          0      620K/37940 us  182.18
+[  3] 7.0000-8.0000 sec  6.35 MBytes  53.2 Mbits/sec  26/0          0      620K/39285 us  169.43
+[  3] 8.0000-9.0000 sec  6.35 MBytes  53.2 Mbits/sec  26/0          0      620K/37708 us  176.51
+[  3] 9.0000-10.0000 sec  6.35 MBytes  53.2 Mbits/sec  26/0          0      620K/38303 us  173.77
+[  3] 10.0000-11.0000 sec  6.35 MBytes  53.2 Mbits/sec  26/0          0      620K/37932 us  175.47
+[  3] 11.0000-12.0000 sec  6.59 MBytes  55.3 Mbits/sec  27/0          0      620K/37901 us  182.37
+[  3] 12.0000-13.0000 sec  6.35 MBytes  53.2 Mbits/sec  26/0          0      620K/37991 us  175.20
+[  3] 13.0000-14.0000 sec  6.35 MBytes  53.2 Mbits/sec  26/0          0      620K/37590 us  177.07
+[  3] 14.0000-15.0000 sec  6.59 MBytes  55.3 Mbits/sec  27/0          0      620K/37673 us  183.47
+[  3] 0.0000-15.7886 sec  95.4 MBytes  50.7 Mbits/sec  392/0          0       -1K/37968 us  166.82

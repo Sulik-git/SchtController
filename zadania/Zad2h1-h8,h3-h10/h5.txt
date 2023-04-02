@@ -1,0 +1,17 @@
+------------------------------------------------------------
+Server listening on UDP port 5111 with pid 5976
+Receiving 1470 byte datagrams
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  3] local 10.0.0.5 port 5111 connected with 10.0.0.3 port 33693
+[ ID] Interval            Transfer     Bandwidth        Jitter   Lost/Total  Latency avg/min/max/stdev PPS  NetPwr
+[  3] 0.0000-1.0000 sec  9.54 MBytes  80.0 Mbits/sec   0.048 ms    0/ 6805 (0%) 15.103/15.017/20.106/ 0.411 ms 6804 pps  662.35
+[  3] 1.0000-2.0000 sec  4.53 MBytes  38.0 Mbits/sec   0.014 ms    0/ 3233 (0%) 15.534/15.017/538.856/ 9.311 ms 3233 pps  305.94
+[  3] 2.0000-3.0000 sec  9.54 MBytes  80.0 Mbits/sec   0.021 ms    0/ 6803 (0%) 15.152/15.014/20.474/ 0.487 ms 6803 pps  660.01
+[  3] 3.0000-4.0000 sec  9.54 MBytes  80.0 Mbits/sec   0.014 ms    0/ 6803 (0%) 15.252/15.018/24.811/ 0.996 ms 6803 pps  655.69
+[  3] 4.0000-5.0000 sec  9.54 MBytes  80.0 Mbits/sec   0.016 ms    0/ 6803 (0%) 15.058/15.015/16.414/ 0.077 ms 6803 pps  664.14
+[  3] 5.0000-6.0000 sec  9.54 MBytes  80.0 Mbits/sec   0.016 ms    0/ 6802 (0%) 15.156/15.018/22.767/ 0.642 ms 6803 pps  659.73
+[  3] 6.0000-7.0000 sec  9.54 MBytes  80.0 Mbits/sec   0.009 ms    0/ 6803 (0%) 15.133/15.011/19.651/ 0.368 ms 6803 pps  660.84
+[  3] 7.0000-8.0000 sec  9.54 MBytes  80.0 Mbits/sec   0.011 ms    0/ 6803 (0%) 15.334/15.014/28.889/ 1.232 ms 6803 pps  652.19
+[  3] 8.0000-9.0000 sec  9.54 MBytes  80.0 Mbits/sec   0.010 ms    0/ 6802 (0%) 15.135/15.015/21.686/ 0.602 ms 6802 pps  660.67
+[  3] 0.0000-9.9998 sec  90.4 MBytes  75.8 Mbits/sec   0.007 ms    0/64458 (0%) 15.186/15.011/538.856/ 2.202 ms 6445 pps  623.98
