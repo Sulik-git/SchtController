@@ -1,1 +1,30 @@
-{"priority": 40000, "timeout": 0, "isPermanent": true, "deviceId": "of:0000000000000005", "treatment": {"instructions": [{"type": "OUTPUT", "port": "3"}]}, "selector": {"criteria": [{"type": "IN_PORT", "port": "1"}, {"type": "ETH_TYPE", "ethType": "0x0800"}, {"type": "IPV4_DST", "ip": "10.0.0.10/32"}]}}
+{
+    "deviceId": "of:0000000000000005",
+    "isPermanent": true,
+    "priority": 40000,
+    "selector": {
+        "criteria": [
+            {
+                "port": "1",
+                "type": "IN_PORT"
+            },
+            {
+                "ethType": "0x0800",
+                "type": "ETH_TYPE"
+            },
+            {
+                "ip": "10.0.0.10/32",
+                "type": "IPV4_DST"
+            }
+        ]
+    },
+    "timeout": 0,
+    "treatment": {
+        "instructions": [
+            {
+                "port": "3",
+                "type": "OUTPUT"
+            }
+        ]
+    }
+}

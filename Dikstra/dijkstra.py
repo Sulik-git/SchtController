@@ -53,7 +53,7 @@ else:
         r = Reader(p1.open("r"))
         num = 1
         for x in range(0,r.getLineNumber()): 
-            lol = Link(r.read(num))
+            lol = Link(r.readLinks(num))
             links.append(lol)
             num = num + 1
     except:
@@ -115,6 +115,7 @@ else:
 
     #for s in switches:
     #    for p in s.ports:
+
     #        print(p)
     for s in switches:
         #print(s)

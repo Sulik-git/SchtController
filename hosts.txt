@@ -1,6 +1,6 @@
 
-1 cheter
-2 mancheter
+1 chester
+2 manchester
 3 york
 4 nottingham
 5 oxford
