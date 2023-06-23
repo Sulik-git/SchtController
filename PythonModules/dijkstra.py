@@ -152,18 +152,3 @@ else:
             print(f"Topology updated for switch {s.getNumber()}")
         else:
             print(f"ERR: Topology not updated for switch {s.getNumber()}")
-        #print(resp1)
-        #for p in s.ports:
-        #    print(p)
-    #print(path)
-
-
-
-    #print(json_output)
-
-
-
-
-
-    #makeJson(1,3,2,4)
-
