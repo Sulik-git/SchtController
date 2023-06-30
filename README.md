@@ -1,3 +1,3 @@
 # Routing optimization using dijkstra algorithm
 
-Repository contains files used in project
+Repository contains python modules and other files used in project.
