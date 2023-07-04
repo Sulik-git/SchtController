@@ -1,4 +1,4 @@
-
+#Class resposnible for creating switches 
 
 class Switch:
     source = 0

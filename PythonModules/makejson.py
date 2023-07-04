@@ -1,7 +1,7 @@
 import json
 
+# Class that objects creates json configuration files 
 class Makejson:
-
 
     def __init__(self):
 
@@ -10,7 +10,7 @@ class Makejson:
     "timeout": 0,
     "isPermanent": True,
     "deviceId": "of:000000000000000a",
-    "treatment": {
+    "treatment": {                              
         "instructions": [
         {
             "type": "OUTPUT",
